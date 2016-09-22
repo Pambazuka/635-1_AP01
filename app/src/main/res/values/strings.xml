@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Triangle</string>
+    <string name="twCoteA">Côté A</string>
+    <string name="twCoteB">Côté B</string>
+    <string name="twCoteC">Côté C</string>
+    <string name="twAire">Aire:</string>
+    <string name="btnCalculer">Calculer</string>
+    <string name="btnNouveau">Nouveau</string>
+    <string name="btnTerminer">Terminer</string>
+</resources>
