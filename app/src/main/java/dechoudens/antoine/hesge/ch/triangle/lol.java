@@ -1,0 +1,5 @@
+class lol{
+	public lol(){
+		
+	}
+}
